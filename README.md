@@ -1,10 +1,4 @@
----
 
-## 🙋 Author
-KUSH MISHRA  
-Connect on GitHub: [m2kush](www.github.com/m2kush)
-
----
 
 
 # Axis-Aligned Enclosure Optimization
