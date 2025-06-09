@@ -114,3 +114,8 @@ g++ -std=c++11 -O2 -o enclosure enclosure.cpp
 ### ▶️ Run
 ```bash
 ./enclosure < input.txt
+📁 AxisAlignedEnclosure/
+├── enclosure.cpp      # Main source code
+├── README.md          # Project documentation
+└── input.txt          # (Optional) Sample input
+
