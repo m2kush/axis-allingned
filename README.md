@@ -1,3 +1,12 @@
+---
+
+## 🙋 Author
+KUSH MISHRA  
+Connect on GitHub: [m2kush](www.github.com/m2kush)
+
+---
+
+
 # Axis-Aligned Enclosure Optimization
 
 This project solves the **Axis-Aligned Enclosure Optimization** problem:  
@@ -112,11 +121,3 @@ g++ -std=c++11 -O2 -o enclosure enclosure.cpp
 ├── enclosure.cpp      # Main source code
 ├── README.md          # Project documentation
 └── input.txt          # (Optional) Sample input
----
-
-## 🙋 Author
-KUSH MISHRA  
-Connect on GitHub: [m2kush](www.github.com/m2kush)
-
----
-
