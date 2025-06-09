@@ -110,8 +110,3 @@ cost = 2 × (x2 − x1 + y2 − y1) + sum of K weights
 ### ✅ Compile
 ```bash
 g++ -std=c++11 -O2 -o enclosure enclosure.cpp
-./enclosure < input.txt
-📦 AxisAlignedEnclosure/
-├── enclosure.cpp      # Main source code
-├── README.md          # Project documentation
-└── input.txt          # (Optional) Sample input
